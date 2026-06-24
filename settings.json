@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "spadefish.aternos.me",
+    "ip": "spadefish.aternos.host",
     "port": 44368,
     "version": "1.21.1",
     "try-creative": false
