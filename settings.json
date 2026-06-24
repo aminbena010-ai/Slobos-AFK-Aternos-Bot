@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Pato5404.aternos.me",
-    "port": 44368,
+    "port": 25565,
     "version": "1.21.1",
     "try-creative": false
   },
